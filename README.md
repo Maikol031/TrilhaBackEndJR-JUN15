@@ -1,3 +1,7 @@
+
+###  Trilha Inicial BackEnd Jr
+[text](https://github.com/codigocerto/TrilhaBackEndJR-JUN15)
+
 ## Documentação:
 
 Este projeto é uma API para gerenciamento de usuários e tarefas desenvolvida com Node.js e Express. A API utiliza autenticação JWT (JSON Web Tokens) e o banco de dados SQLite. A estrutura da API segue o padrão CRUD (Criar, Ler, Atualizar, Excluir) e retorna códigos de status HTTP apropriados.
