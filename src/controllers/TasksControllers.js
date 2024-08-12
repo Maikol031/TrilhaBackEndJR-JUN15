@@ -111,8 +111,8 @@ const deleted = async(req, res) => {
 
         await db.run('DELETE FROM tasks WHERE ID = ?', [id])
         
-        return res.status(200).json({
-            statusCode: 200,
+        return res.status(204).json({
+            statusCode: 204,
             message: "Tarefa deletada com sucesso"
         })
 

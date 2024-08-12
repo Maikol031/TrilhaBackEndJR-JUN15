@@ -70,8 +70,8 @@ const deleteUser = async(req, res) => {
 
         await db.run('DELETE FROM users WHERE id = ?', userId);
 
-        return res.status(200).json({
-            statusCode: 200,
+        return res.status(204).json({
+            statusCode: 204,
             message: 'Usuário deleteado com sucesso!'
         });
     } catch (error) {
