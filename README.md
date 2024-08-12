@@ -1,6 +1,6 @@
 
 ###  Trilha Inicial BackEnd Jr
-[text](https://github.com/codigocerto/TrilhaBackEndJR-JUN15)
+[link](https://github.com/codigocerto/TrilhaBackEndJR-JUN15)
 
 ## Documentação:
 
